@@ -1,6 +1,6 @@
 ### Greetings from Białystok, Poland 👋
 
-My name is Karol, and I have been a professional software developer since 2010. I am fortunate to do what I love for a living.
+My name is Karol, and I have been a professional software developer since 2010. I'm fortunate to do what I love for a living.
 
 I'm focused on developing applications related to Adobe Experience Manager, Apache Sling, and IntelliJ Platform. My main programming languages are Java and Kotlin.
 
