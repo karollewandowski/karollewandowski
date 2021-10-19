@@ -1,16 +1,15 @@
-### Hi there 👋
+### Greetings from Białystok, Poland 👋
 
-<!--
-**karollewandowski/karollewandowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Karol, and I have been a professional software developer since 2010. I am fortunate to do what I love for a living.
 
-Here are some ideas to get you started:
+I'm focused on developing applications related to Adobe Experience Manager, Apache Sling, and IntelliJ Platform. My main programming languages are Java and Kotlin.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I had an opportunity to contribute to open-source projects as:
+
+- [JUnit 5](https://junit.org/junit5/)
+- [AEM Mocks](https://wcm.io/testing/aem-mock/)
+- [HTL Specification](https://github.com/adobe/htl-spec)
+
+However, the project I am the proudest of is [AEM IDE](https://aemide.com) - IntelliJ Platform plugin supporting Adobe Experience Manager applications development.
+
+Have a wonderful day 🤩
