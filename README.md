@@ -2,7 +2,9 @@
 
 My name is Karol, and I have been a professional software developer since 2010. I'm fortunate to do what I love for a living.
 
-I'm focused on developing applications related to Adobe Experience Manager, Apache Sling, and IntelliJ Platform. My main programming languages are Java and Kotlin.
+For the most of my carreer, I was focused on developing applications related to Adobe Experience Manager, Apache Sling, and IntelliJ Platform. My main programming languages are Java and Kotlin.
+
+Currently, I work at JetBrains as a Developer Advocate focused on improving IntelliJ Platform plugins development experience.
 
 I had an opportunity to contribute to open-source projects as:
 
@@ -10,6 +12,6 @@ I had an opportunity to contribute to open-source projects as:
 - [AEM Mocks](https://wcm.io/testing/aem-mock/)
 - [HTL Specification](https://github.com/adobe/htl-spec)
 
-However, the project I am the proudest of is [AEM IDE](https://aemide.com) - IntelliJ Platform plugin supporting Adobe Experience Manager applications development.
+However, **the project I am the proudest of is [AEM IDE](https://aemide.com)** - IntelliJ Platform plugin supporting Adobe Experience Manager applications development. If you are an AEM developer I recommend to give it a try.
 
 Have a wonderful day 🤩
