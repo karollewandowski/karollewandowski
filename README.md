@@ -8,10 +8,13 @@ Currently, I work at JetBrains as a Developer Advocate focusing on improving the
 
 I had an opportunity to contribute to open-source projects as:
 
+- [IntelliJ Community](https://github.com/JetBrains/intellij-community)
+- [IntelliJ Platform Plugin SDK Documentation](https://github.com/JetBrains/intellij-sdk-docs)
 - [JUnit 5](https://junit.org/junit5/)
 - [AEM Mocks](https://wcm.io/testing/aem-mock/)
 - [HTL Specification](https://github.com/adobe/htl-spec)
 
-However, **the project I'm the proudest of is [AEM IDE](https://aemide.com)** - IntelliJ Platform plugin supporting Adobe Experience Manager applications development. If you are an AEM developer, I will be pleased if you give it a try and let me know what you think.
+However, **the project I'm the proudest of is [AEM IDE](https://aemide.com)** - IntelliJ Platform plugin supporting Adobe Experience Manager applications development.
+If you are an AEM developer, I will be pleased if you give it a try and let me know what you think.
 
 Have a wonderful day 🤩
