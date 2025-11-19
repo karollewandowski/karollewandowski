@@ -4,7 +4,7 @@ My name is Karol, and I have been a professional software developer since 2010. 
 
 For most of my career, I was focused on developing applications related to Adobe Experience Manager, Apache Sling, and IntelliJ Platform. My main programming languages are Java and Kotlin.
 
-Currently, I work at JetBrains as a Developer Advocate focusing on improving the IntelliJ Platform plugins development experience.
+Currently, I work at JetBrains as a Sotfware Developer focusing on improving the IntelliJ Platform plugins development experience.
 
 I had an opportunity to contribute to open-source projects as:
 
